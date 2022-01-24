@@ -2,5 +2,5 @@ package hello;
 
 public class TestCase003 {
 
-    // another super class
+    // another super class with awesome code
 }
